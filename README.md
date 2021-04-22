@@ -1,0 +1,2 @@
+# MTTracker
+This is a time management application, users can standardize and restrain themselves by adding time and time range. Currently the project is still in the development process, the current stage is testing whether the events added on the homepage can be added to the event catalog and viewing the event catalog. Currently unfinished features: users cannot add user events independently for the time being
